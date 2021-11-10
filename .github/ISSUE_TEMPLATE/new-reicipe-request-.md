@@ -2,7 +2,7 @@
 name: 'New Reicipe Request '
 about: "Suggest a new recipe for HAL \U0001F389"
 title: "[New Recipe Proposal]"
-labels: ''
+labels: new recipe
 assignees: ''
 
 ---
