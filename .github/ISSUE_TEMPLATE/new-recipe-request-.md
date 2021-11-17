@@ -1,5 +1,5 @@
 ---
-name: 'New Reicipe Request '
+name: 'New Recipe Request '
 about: "Suggest a new recipe for HAL \U0001F389"
 title: "[New Recipe Proposal]"
 labels: new recipe
